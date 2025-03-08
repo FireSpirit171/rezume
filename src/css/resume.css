@@ -63,5 +63,12 @@ margin-bottom: 45px;
  padding-left: 25px;
 }
 
+.rounded-avatar {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 120px;
+  width: 120px;
+  margin-right: 0px !important;
+}
 
 
